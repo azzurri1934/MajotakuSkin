@@ -1,0 +1,2 @@
+# MajotakuSkin
+Majotaku_Skinです！
